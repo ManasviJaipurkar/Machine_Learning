@@ -81,3 +81,5 @@ for i in range(10):
 
 print(f"\nFinal approximation is: {x:.10f}")
 print(f"f(x) = {f(x):.10f}")
+
+
